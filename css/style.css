@@ -892,7 +892,7 @@ body {
   font-size: 0;
 }
 .slider .slick-arrow.slick-prev {
-  background: url(img/_DOWN_copy_2.png) 0 0 no-repeat;
+  background: url(../img/_DOWN_copy_2.png) 0 0 no-repeat;
   left: -75px;
 }
 @media (max-width: 520px) {
@@ -905,7 +905,7 @@ body {
 }
 .slider .slick-arrow.slick-next {
   right: -65px;
-  background: url(img/_DOWN_copy.png) 0 0 no-repeat;
+  background: url(../img/_DOWN_copy.png) 0 0 no-repeat;
 }
 @media (max-width: 520px) {
   .slider .slick-arrow.slick-next {
