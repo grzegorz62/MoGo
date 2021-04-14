@@ -1077,7 +1077,7 @@ main {
 @media (max-width: 1200px) {
   .container {
     width: 900px;
-    padding: 0 25px;
+    padding: 0 15px;
   }
 }
 @media (max-width: 900px) {
@@ -1092,7 +1092,7 @@ main {
 }
 @media (max-width: 520px) {
   .container {
-    width: 320px;
+    width: 310px;
   }
 }
 
