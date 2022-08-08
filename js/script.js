@@ -19,7 +19,7 @@ $(document).ready(function(){
     arrows: true,
     dots: false,
     autoplay: true,
-    autoplaySpeed: 3000,
+    autoplaySpeed: 2500,
 });
 
 })
@@ -54,7 +54,7 @@ $('.menu').click(function(event) {
   $('.menu').removeClass('active');
 })
 
-// Аккордеон  
+// Аккордеон
 
 var acc = document.getElementsByClassName("accordion__button");
 var i;
@@ -90,5 +90,3 @@ var options = {
 }
 
 var header = new Headhesive('.header', options);
-
-
